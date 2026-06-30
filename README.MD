@@ -16,5 +16,6 @@ Small Project to give a Player some Advantages in Among Us, if used make sure yo
 
 ### Ingame Screenshot of the Ui
 ![image](https://github.com/user-attachments/assets/d8ce53f2-3ab0-4133-8dac-2df452d97b98)
+You can press F1 to hide the Menu
 
 Enjoy
